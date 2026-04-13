@@ -78,6 +78,17 @@ const GROUP_1: CurriculumMeta = {
     },
 
     {
+      id: "cog",
+      text: " مواقف قائمة على السيناريو",
+      icon: "robot",
+      action: {
+        type: "openUrl",
+        url: " https://dr-ramy.github.io/flip140/FlipBook5/index.html#p=1",
+        target: "_blank",
+      },
+    },
+    
+        {
       id: "ai-assistant",
       text: "روبوتات الدردشة",
       icon: "robot",
@@ -240,6 +251,16 @@ const GROUP_2: CurriculumMeta = {
       action: {
         type: "openUrl",
         url: " https://met2a140.vercel.app/scenes",
+        target: "_blank",
+      },
+    },
+        {
+      id: "cog",
+      text: " مواقف قائمة على السيناريو",
+      icon: "robot",
+      action: {
+        type: "openUrl",
+        url: " https://dr-ramy.github.io/flip140/FlipBook5/index.html#p=1",
         target: "_blank",
       },
     },
